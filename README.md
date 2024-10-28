@@ -1,1 +1,1 @@
-# IE500618-Machine-Learning
+# IE500618 - Machine Learning
