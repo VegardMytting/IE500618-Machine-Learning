@@ -3,10 +3,7 @@ items using a neural network-based model from the Tensorflow Keras library.
 Answer the following questions
 
 1) Plot the training and validation error and accuracy metrics.
-2) What hyperparameters did you use to tune your model and why? For
-
-example, the number of hidden layers, number of neurons, activation
-function, input features, etc.
+2) What hyperparameters did you use to tune your model and why? For example, the number of hidden layers, number of neurons, activation function, input features, etc.
 
 Deliverables (it is mandatory to provide answers to the questions to get full
 grade):
